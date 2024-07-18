@@ -1,0 +1,7 @@
+0: Marah
+1: Jijik
+2: Takut
+3: Bahagia
+4: Netral
+5: Sedih
+6: Terkejut
